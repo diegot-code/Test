@@ -5,6 +5,6 @@ Testing github site
 <body>
     <a href="index.html">Click here to Start the Test</a>
 
-    <p>This repository will be used to test what github's "Page"s can display and/or function. </p>
+    This repository will be used to test what github's "Page"s can display and/or function.
 </body>
 </html>
